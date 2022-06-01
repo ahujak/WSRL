@@ -1,4 +1,4 @@
-# CRL
+# WSRL
 
 To reproduce the numbers in Table 3, call
 
