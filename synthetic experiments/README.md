@@ -1,4 +1,4 @@
-# CRL
+# WSRL
 
 Run the attached notebooks to reproduce the results in the paper. 
 
